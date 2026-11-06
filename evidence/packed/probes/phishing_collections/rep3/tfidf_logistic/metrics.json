@@ -1,0 +1,15 @@
+{
+  "n": 923,
+  "n_positive": 574,
+  "n_negative": 349,
+  "prevalence": 0.6218851570964247,
+  "average_precision": 0.992638267427765,
+  "roc_auc": 0.9861375957189782,
+  "probe": "phishing_collections",
+  "replicate": 3,
+  "variant": "tfidf_logistic",
+  "positive_collection": "phishing_pot",
+  "negative_collection": "nazario_recent",
+  "chosen_setting": 1,
+  "tune_ap": 0.9886309846561497
+}

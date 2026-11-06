@@ -1,0 +1,22 @@
+{
+  "collection": "spamassassin_ham",
+  "url": "https://spamassassin.apache.org/old/publiccorpus/",
+  "name": "spamassassin_index.html",
+  "kind": "documentation",
+  "max_bytes": 4194304,
+  "relative_path": "spamassassin_ham/spamassassin_index.html",
+  "retrieval_started_utc": "2026-11-05T20:11:07.402204+00:00",
+  "retrieved_at_utc": "2026-11-05T20:11:08.277837+00:00",
+  "status": "downloaded",
+  "attempts": 1,
+  "errors": [],
+  "final_url": "https://spamassassin.apache.org/old/publiccorpus/",
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "content_encoding": "gzip",
+  "content_length": "631",
+  "last_modified": null,
+  "etag": null,
+  "bytes": 3149,
+  "sha256": "12e2fdb7f2e35ad05bdffb71ba95605d161620bb611ba9d0516f1240b499f523"
+}

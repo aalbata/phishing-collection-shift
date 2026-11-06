@@ -1,0 +1,32 @@
+{
+  "utc": "2026-11-06T03:55:38.927533+00:00",
+  "checks": {
+    "runs": {
+      "runs": 400,
+      "metric_rows_checked": 8400
+    },
+    "splits": {
+      "replicates": 5,
+      "units": 54003
+    },
+    "confirmatory_tests": {
+      "tests": 8,
+      "bootstrap_recomputed": true
+    },
+    "probes": {
+      "rows": 60
+    },
+    "permutation_importance_baselines": {
+      "runs": 50
+    },
+    "descriptive_tables": {
+      "low_prevalence_rows": 600,
+      "importance_rows": 2300,
+      "attention_rows": 230,
+      "correlations": 10,
+      "error_profile_rows": 405,
+      "compute_rows": 400
+    }
+  },
+  "status": "PASS"
+}

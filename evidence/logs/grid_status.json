@@ -1,0 +1,29 @@
+{
+  "utc": "2026-11-06T03:19:10.880090+00:00",
+  "pairings": [
+    "NZ-SA",
+    "NZ-EN",
+    "PP-SA",
+    "PP-EN"
+  ],
+  "replicates": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "variants": [
+    "logistic",
+    "random_forest",
+    "gradient_boosting",
+    "mlp",
+    "single_token_attention",
+    "feature_token_transformer",
+    "ftt_no_url",
+    "ftt_no_urgency",
+    "gb_format_only",
+    "tfidf_logistic"
+  ],
+  "completed_runs": 400
+}

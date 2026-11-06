@@ -1,0 +1,15 @@
+{
+  "n": 4242,
+  "n_positive": 3432,
+  "n_negative": 810,
+  "prevalence": 0.809052333804809,
+  "average_precision": 0.9943155238798265,
+  "roc_auc": 0.9771648104981439,
+  "probe": "legitimate_era",
+  "replicate": 1,
+  "variant": "gradient_boosting",
+  "positive_collection": "apache_lists",
+  "negative_collection": "spamassassin_ham",
+  "chosen_setting": 1,
+  "tune_ap": 0.9957686816117667
+}

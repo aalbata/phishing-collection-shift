@@ -1,0 +1,22 @@
+{
+  "collection": "nazario_classic",
+  "url": "https://monkey.org/~jose/phishing/README.txt",
+  "name": "nazario_README.txt",
+  "kind": "documentation",
+  "max_bytes": 4194304,
+  "relative_path": "nazario_classic/nazario_README.txt",
+  "retrieval_started_utc": "2026-11-05T20:11:02.840855+00:00",
+  "retrieved_at_utc": "2026-11-05T20:11:04.640896+00:00",
+  "status": "downloaded",
+  "attempts": 1,
+  "errors": [],
+  "final_url": "https://monkey.org/~jose/phishing/README.txt",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "content_encoding": "gzip",
+  "content_length": "563",
+  "last_modified": "Fri, 20 Feb 2026 15:27:37 GMT",
+  "etag": "\"3c1-64b430faa8866-gzip\"",
+  "bytes": 961,
+  "sha256": "4589b63a4149bff0b65e82c2110baaebee36e5d9219009a31cc78bb6ab597fab"
+}

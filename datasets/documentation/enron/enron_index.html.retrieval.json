@@ -1,0 +1,22 @@
+{
+  "collection": "enron",
+  "url": "https://www.cs.cmu.edu/~enron/",
+  "name": "enron_index.html",
+  "kind": "documentation",
+  "max_bytes": 4194304,
+  "relative_path": "enron/enron_index.html",
+  "retrieval_started_utc": "2026-11-05T20:11:08.282508+00:00",
+  "retrieved_at_utc": "2026-11-05T20:11:10.260160+00:00",
+  "status": "downloaded",
+  "attempts": 1,
+  "errors": [],
+  "final_url": "https://www.cs.cmu.edu/~enron/",
+  "http_status": 200,
+  "content_type": "text/html",
+  "content_encoding": "gzip",
+  "content_length": "3274",
+  "last_modified": null,
+  "etag": null,
+  "bytes": 7044,
+  "sha256": "3cd4d4a6bfcb400474b3ce40ae5b0ac5629602f3437b131dd55b5b7834b564a9"
+}

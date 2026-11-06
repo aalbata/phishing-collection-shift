@@ -1,0 +1,406 @@
+replicate,variant,population,property,level,label,n,flagged,rate
+0,feature_token_transformer,in_distribution,length,<50 words,0,94,1,0.010638297872340425
+0,feature_token_transformer,in_distribution,length,50-199 words,0,415,2,0.004819277108433735
+0,feature_token_transformer,in_distribution,length,>=200 words,0,301,0,0.0
+0,feature_token_transformer,in_distribution,length,<50 words,1,83,57,0.6867469879518072
+0,feature_token_transformer,in_distribution,length,50-199 words,1,230,197,0.8565217391304348
+0,feature_token_transformer,in_distribution,length,>=200 words,1,36,18,0.5
+0,feature_token_transformer,in_distribution,links,has links,0,720,1,0.001388888888888889
+0,feature_token_transformer,in_distribution,links,no links,0,90,2,0.022222222222222223
+0,feature_token_transformer,in_distribution,links,has links,1,303,244,0.8052805280528053
+0,feature_token_transformer,in_distribution,links,no links,1,46,28,0.6086956521739131
+0,feature_token_transformer,in_distribution,format,HTML only,0,20,0,0.0
+0,feature_token_transformer,in_distribution,format,plain text present,0,790,3,0.0037974683544303796
+0,feature_token_transformer,in_distribution,format,HTML only,1,171,147,0.8596491228070176
+0,feature_token_transformer,in_distribution,format,plain text present,1,178,125,0.702247191011236
+0,feature_token_transformer,both_shift,length,<50 words,0,6908,47,0.006803705848291835
+0,feature_token_transformer,both_shift,length,50-199 words,0,11713,39,0.003329633740288568
+0,feature_token_transformer,both_shift,length,>=200 words,0,9567,0,0.0
+0,feature_token_transformer,both_shift,length,<50 words,1,827,393,0.4752116082224909
+0,feature_token_transformer,both_shift,length,50-199 words,1,1418,937,0.6607898448519041
+0,feature_token_transformer,both_shift,length,>=200 words,1,621,110,0.17713365539452497
+0,feature_token_transformer,both_shift,links,has links,0,3882,1,0.00025759917568263783
+0,feature_token_transformer,both_shift,links,no links,0,24306,85,0.003497078910557064
+0,feature_token_transformer,both_shift,links,has links,1,2428,1255,0.5168863261943987
+0,feature_token_transformer,both_shift,links,no links,1,438,185,0.4223744292237443
+0,feature_token_transformer,both_shift,format,plain text present,0,28188,86,0.003050943663970484
+0,feature_token_transformer,both_shift,format,HTML only,1,1698,947,0.5577149587750294
+0,feature_token_transformer,both_shift,format,plain text present,1,1168,493,0.4220890410958904
+0,gradient_boosting,in_distribution,length,<50 words,0,94,1,0.010638297872340425
+0,gradient_boosting,in_distribution,length,50-199 words,0,415,1,0.0024096385542168677
+0,gradient_boosting,in_distribution,length,>=200 words,0,301,0,0.0
+0,gradient_boosting,in_distribution,length,<50 words,1,83,81,0.9759036144578314
+0,gradient_boosting,in_distribution,length,50-199 words,1,230,217,0.9434782608695652
+0,gradient_boosting,in_distribution,length,>=200 words,1,36,30,0.8333333333333334
+0,gradient_boosting,in_distribution,links,has links,0,720,0,0.0
+0,gradient_boosting,in_distribution,links,no links,0,90,2,0.022222222222222223
+0,gradient_boosting,in_distribution,links,has links,1,303,290,0.9570957095709571
+0,gradient_boosting,in_distribution,links,no links,1,46,38,0.8260869565217391
+0,gradient_boosting,in_distribution,format,HTML only,0,20,0,0.0
+0,gradient_boosting,in_distribution,format,plain text present,0,790,2,0.002531645569620253
+0,gradient_boosting,in_distribution,format,HTML only,1,171,166,0.9707602339181286
+0,gradient_boosting,in_distribution,format,plain text present,1,178,162,0.9101123595505618
+0,gradient_boosting,both_shift,length,<50 words,0,6908,223,0.03228141285466126
+0,gradient_boosting,both_shift,length,50-199 words,0,11713,63,0.005378639118927687
+0,gradient_boosting,both_shift,length,>=200 words,0,9567,1,0.00010452597470471412
+0,gradient_boosting,both_shift,length,<50 words,1,827,554,0.6698911729141476
+0,gradient_boosting,both_shift,length,50-199 words,1,1418,1143,0.806064880112835
+0,gradient_boosting,both_shift,length,>=200 words,1,621,308,0.49597423510466987
+0,gradient_boosting,both_shift,links,has links,0,3882,14,0.0036063884595569293
+0,gradient_boosting,both_shift,links,no links,0,24306,273,0.011231794618612689
+0,gradient_boosting,both_shift,links,has links,1,2428,1811,0.7458813838550247
+0,gradient_boosting,both_shift,links,no links,1,438,194,0.4429223744292237
+0,gradient_boosting,both_shift,format,plain text present,0,28188,287,0.010181637576273592
+0,gradient_boosting,both_shift,format,HTML only,1,1698,1306,0.7691401648998822
+0,gradient_boosting,both_shift,format,plain text present,1,1168,699,0.598458904109589
+0,tfidf_logistic,in_distribution,length,<50 words,0,94,1,0.010638297872340425
+0,tfidf_logistic,in_distribution,length,50-199 words,0,415,2,0.004819277108433735
+0,tfidf_logistic,in_distribution,length,>=200 words,0,301,2,0.006644518272425249
+0,tfidf_logistic,in_distribution,length,<50 words,1,83,83,1.0
+0,tfidf_logistic,in_distribution,length,50-199 words,1,230,229,0.9956521739130435
+0,tfidf_logistic,in_distribution,length,>=200 words,1,36,33,0.9166666666666666
+0,tfidf_logistic,in_distribution,links,has links,0,720,4,0.005555555555555556
+0,tfidf_logistic,in_distribution,links,no links,0,90,1,0.011111111111111112
+0,tfidf_logistic,in_distribution,links,has links,1,303,301,0.9933993399339934
+0,tfidf_logistic,in_distribution,links,no links,1,46,44,0.9565217391304348
+0,tfidf_logistic,in_distribution,format,HTML only,0,20,0,0.0
+0,tfidf_logistic,in_distribution,format,plain text present,0,790,5,0.006329113924050633
+0,tfidf_logistic,in_distribution,format,HTML only,1,171,169,0.9883040935672515
+0,tfidf_logistic,in_distribution,format,plain text present,1,178,176,0.9887640449438202
+0,tfidf_logistic,both_shift,length,<50 words,0,6908,1129,0.1634337000579039
+0,tfidf_logistic,both_shift,length,50-199 words,0,11713,1528,0.1304533424400239
+0,tfidf_logistic,both_shift,length,>=200 words,0,9567,816,0.08529319535904673
+0,tfidf_logistic,both_shift,length,<50 words,1,827,501,0.6058041112454655
+0,tfidf_logistic,both_shift,length,50-199 words,1,1418,1019,0.7186177715091678
+0,tfidf_logistic,both_shift,length,>=200 words,1,621,312,0.5024154589371981
+0,tfidf_logistic,both_shift,links,has links,0,3882,824,0.21226172076249356
+0,tfidf_logistic,both_shift,links,no links,0,24306,2649,0.10898543569489015
+0,tfidf_logistic,both_shift,links,has links,1,2428,1544,0.6359143327841845
+0,tfidf_logistic,both_shift,links,no links,1,438,288,0.6575342465753424
+0,tfidf_logistic,both_shift,format,plain text present,0,28188,3473,0.12320845749964524
+0,tfidf_logistic,both_shift,format,HTML only,1,1698,1103,0.649587750294464
+0,tfidf_logistic,both_shift,format,plain text present,1,1168,729,0.6241438356164384
+1,feature_token_transformer,in_distribution,length,<50 words,0,94,3,0.031914893617021274
+1,feature_token_transformer,in_distribution,length,50-199 words,0,420,8,0.01904761904761905
+1,feature_token_transformer,in_distribution,length,>=200 words,0,296,4,0.013513513513513514
+1,feature_token_transformer,in_distribution,length,<50 words,1,94,91,0.9680851063829787
+1,feature_token_transformer,in_distribution,length,50-199 words,1,220,219,0.9954545454545455
+1,feature_token_transformer,in_distribution,length,>=200 words,1,35,31,0.8857142857142857
+1,feature_token_transformer,in_distribution,links,has links,0,707,11,0.015558698727015558
+1,feature_token_transformer,in_distribution,links,no links,0,103,4,0.038834951456310676
+1,feature_token_transformer,in_distribution,links,has links,1,304,298,0.9802631578947368
+1,feature_token_transformer,in_distribution,links,no links,1,45,43,0.9555555555555556
+1,feature_token_transformer,in_distribution,format,HTML only,0,26,4,0.15384615384615385
+1,feature_token_transformer,in_distribution,format,plain text present,0,784,11,0.01403061224489796
+1,feature_token_transformer,in_distribution,format,HTML only,1,147,146,0.9931972789115646
+1,feature_token_transformer,in_distribution,format,plain text present,1,202,195,0.9653465346534653
+1,feature_token_transformer,both_shift,length,<50 words,0,6908,962,0.1392588303416329
+1,feature_token_transformer,both_shift,length,50-199 words,0,11713,714,0.06095791001451379
+1,feature_token_transformer,both_shift,length,>=200 words,0,9567,300,0.03135779241141424
+1,feature_token_transformer,both_shift,length,<50 words,1,827,770,0.9310761789600968
+1,feature_token_transformer,both_shift,length,50-199 words,1,1418,1364,0.9619181946403385
+1,feature_token_transformer,both_shift,length,>=200 words,1,621,481,0.7745571658615137
+1,feature_token_transformer,both_shift,links,has links,0,3882,113,0.029108706852138073
+1,feature_token_transformer,both_shift,links,no links,0,24306,1863,0.07664774129844483
+1,feature_token_transformer,both_shift,links,has links,1,2428,2286,0.9415156507413509
+1,feature_token_transformer,both_shift,links,no links,1,438,329,0.7511415525114156
+1,feature_token_transformer,both_shift,format,plain text present,0,28188,1976,0.07010075209308926
+1,feature_token_transformer,both_shift,format,HTML only,1,1698,1663,0.9793875147232037
+1,feature_token_transformer,both_shift,format,plain text present,1,1168,952,0.815068493150685
+1,gradient_boosting,in_distribution,length,<50 words,0,94,3,0.031914893617021274
+1,gradient_boosting,in_distribution,length,50-199 words,0,420,2,0.004761904761904762
+1,gradient_boosting,in_distribution,length,>=200 words,0,296,0,0.0
+1,gradient_boosting,in_distribution,length,<50 words,1,94,89,0.9468085106382979
+1,gradient_boosting,in_distribution,length,50-199 words,1,220,217,0.9863636363636363
+1,gradient_boosting,in_distribution,length,>=200 words,1,35,34,0.9714285714285714
+1,gradient_boosting,in_distribution,links,has links,0,707,4,0.005657708628005658
+1,gradient_boosting,in_distribution,links,no links,0,103,1,0.009708737864077669
+1,gradient_boosting,in_distribution,links,has links,1,304,297,0.9769736842105263
+1,gradient_boosting,in_distribution,links,no links,1,45,43,0.9555555555555556
+1,gradient_boosting,in_distribution,format,HTML only,0,26,0,0.0
+1,gradient_boosting,in_distribution,format,plain text present,0,784,5,0.006377551020408163
+1,gradient_boosting,in_distribution,format,HTML only,1,147,145,0.9863945578231292
+1,gradient_boosting,in_distribution,format,plain text present,1,202,195,0.9653465346534653
+1,gradient_boosting,both_shift,length,<50 words,0,6908,1390,0.20121598147075853
+1,gradient_boosting,both_shift,length,50-199 words,0,11713,557,0.04755399982924955
+1,gradient_boosting,both_shift,length,>=200 words,0,9567,123,0.012856694888679836
+1,gradient_boosting,both_shift,length,<50 words,1,827,763,0.9226118500604595
+1,gradient_boosting,both_shift,length,50-199 words,1,1418,1294,0.9125528913963329
+1,gradient_boosting,both_shift,length,>=200 words,1,621,459,0.7391304347826086
+1,gradient_boosting,both_shift,links,has links,0,3882,87,0.02241112828438949
+1,gradient_boosting,both_shift,links,no links,0,24306,1983,0.0815847938780548
+1,gradient_boosting,both_shift,links,has links,1,2428,2233,0.9196869851729819
+1,gradient_boosting,both_shift,links,no links,1,438,283,0.6461187214611872
+1,gradient_boosting,both_shift,format,plain text present,0,28188,2070,0.07343550446998723
+1,gradient_boosting,both_shift,format,HTML only,1,1698,1646,0.9693757361601885
+1,gradient_boosting,both_shift,format,plain text present,1,1168,870,0.7448630136986302
+1,tfidf_logistic,in_distribution,length,<50 words,0,94,1,0.010638297872340425
+1,tfidf_logistic,in_distribution,length,50-199 words,0,420,1,0.002380952380952381
+1,tfidf_logistic,in_distribution,length,>=200 words,0,296,0,0.0
+1,tfidf_logistic,in_distribution,length,<50 words,1,94,94,1.0
+1,tfidf_logistic,in_distribution,length,50-199 words,1,220,220,1.0
+1,tfidf_logistic,in_distribution,length,>=200 words,1,35,34,0.9714285714285714
+1,tfidf_logistic,in_distribution,links,has links,0,707,1,0.0014144271570014145
+1,tfidf_logistic,in_distribution,links,no links,0,103,1,0.009708737864077669
+1,tfidf_logistic,in_distribution,links,has links,1,304,303,0.9967105263157895
+1,tfidf_logistic,in_distribution,links,no links,1,45,45,1.0
+1,tfidf_logistic,in_distribution,format,HTML only,0,26,0,0.0
+1,tfidf_logistic,in_distribution,format,plain text present,0,784,2,0.002551020408163265
+1,tfidf_logistic,in_distribution,format,HTML only,1,147,146,0.9931972789115646
+1,tfidf_logistic,in_distribution,format,plain text present,1,202,202,1.0
+1,tfidf_logistic,both_shift,length,<50 words,0,6908,1285,0.18601621308627678
+1,tfidf_logistic,both_shift,length,50-199 words,0,11713,1763,0.15051652010586528
+1,tfidf_logistic,both_shift,length,>=200 words,0,9567,964,0.10076303961534441
+1,tfidf_logistic,both_shift,length,<50 words,1,827,533,0.6444981862152358
+1,tfidf_logistic,both_shift,length,50-199 words,1,1418,1041,0.734132581100141
+1,tfidf_logistic,both_shift,length,>=200 words,1,621,328,0.5281803542673108
+1,tfidf_logistic,both_shift,links,has links,0,3882,886,0.2282328696548171
+1,tfidf_logistic,both_shift,links,no links,0,24306,3126,0.1286102196988398
+1,tfidf_logistic,both_shift,links,has links,1,2428,1609,0.6626853377265239
+1,tfidf_logistic,both_shift,links,no links,1,438,293,0.6689497716894978
+1,tfidf_logistic,both_shift,format,plain text present,0,28188,4012,0.14233006953313468
+1,tfidf_logistic,both_shift,format,HTML only,1,1698,1160,0.6831566548881036
+1,tfidf_logistic,both_shift,format,plain text present,1,1168,742,0.6352739726027398
+2,feature_token_transformer,in_distribution,length,<50 words,0,95,3,0.031578947368421054
+2,feature_token_transformer,in_distribution,length,50-199 words,0,428,3,0.007009345794392523
+2,feature_token_transformer,in_distribution,length,>=200 words,0,287,1,0.003484320557491289
+2,feature_token_transformer,in_distribution,length,<50 words,1,96,86,0.8958333333333334
+2,feature_token_transformer,in_distribution,length,50-199 words,1,214,209,0.9766355140186916
+2,feature_token_transformer,in_distribution,length,>=200 words,1,39,32,0.8205128205128205
+2,feature_token_transformer,in_distribution,links,has links,0,706,7,0.009915014164305949
+2,feature_token_transformer,in_distribution,links,no links,0,104,0,0.0
+2,feature_token_transformer,in_distribution,links,has links,1,303,289,0.9537953795379538
+2,feature_token_transformer,in_distribution,links,no links,1,46,38,0.8260869565217391
+2,feature_token_transformer,in_distribution,format,HTML only,0,34,3,0.08823529411764706
+2,feature_token_transformer,in_distribution,format,plain text present,0,776,4,0.005154639175257732
+2,feature_token_transformer,in_distribution,format,HTML only,1,163,160,0.9815950920245399
+2,feature_token_transformer,in_distribution,format,plain text present,1,186,167,0.8978494623655914
+2,feature_token_transformer,both_shift,length,<50 words,0,6908,43,0.006224667052692531
+2,feature_token_transformer,both_shift,length,50-199 words,0,11713,33,0.0028173823956287886
+2,feature_token_transformer,both_shift,length,>=200 words,0,9567,0,0.0
+2,feature_token_transformer,both_shift,length,<50 words,1,827,745,0.9008464328899637
+2,feature_token_transformer,both_shift,length,50-199 words,1,1418,1277,0.9005641748942173
+2,feature_token_transformer,both_shift,length,>=200 words,1,621,350,0.5636070853462157
+2,feature_token_transformer,both_shift,links,has links,0,3882,5,0.001287995878413189
+2,feature_token_transformer,both_shift,links,no links,0,24306,71,0.0029210894429359006
+2,feature_token_transformer,both_shift,links,has links,1,2428,2144,0.8830313014827018
+2,feature_token_transformer,both_shift,links,no links,1,438,228,0.5205479452054794
+2,feature_token_transformer,both_shift,format,plain text present,0,28188,76,0.0026961827728111255
+2,feature_token_transformer,both_shift,format,HTML only,1,1698,1604,0.944640753828033
+2,feature_token_transformer,both_shift,format,plain text present,1,1168,768,0.6575342465753424
+2,gradient_boosting,in_distribution,length,<50 words,0,95,2,0.021052631578947368
+2,gradient_boosting,in_distribution,length,50-199 words,0,428,4,0.009345794392523364
+2,gradient_boosting,in_distribution,length,>=200 words,0,287,2,0.006968641114982578
+2,gradient_boosting,in_distribution,length,<50 words,1,96,94,0.9791666666666666
+2,gradient_boosting,in_distribution,length,50-199 words,1,214,212,0.9906542056074766
+2,gradient_boosting,in_distribution,length,>=200 words,1,39,37,0.9487179487179487
+2,gradient_boosting,in_distribution,links,has links,0,706,8,0.0113314447592068
+2,gradient_boosting,in_distribution,links,no links,0,104,0,0.0
+2,gradient_boosting,in_distribution,links,has links,1,303,300,0.9900990099009901
+2,gradient_boosting,in_distribution,links,no links,1,46,43,0.9347826086956522
+2,gradient_boosting,in_distribution,format,HTML only,0,34,3,0.08823529411764706
+2,gradient_boosting,in_distribution,format,plain text present,0,776,5,0.006443298969072165
+2,gradient_boosting,in_distribution,format,HTML only,1,163,163,1.0
+2,gradient_boosting,in_distribution,format,plain text present,1,186,180,0.967741935483871
+2,gradient_boosting,both_shift,length,<50 words,0,6908,1856,0.2686740011580776
+2,gradient_boosting,both_shift,length,50-199 words,0,11713,715,0.06104328523862375
+2,gradient_boosting,both_shift,length,>=200 words,0,9567,76,0.007943974077558274
+2,gradient_boosting,both_shift,length,<50 words,1,827,785,0.9492140266021766
+2,gradient_boosting,both_shift,length,50-199 words,1,1418,1317,0.9287729196050776
+2,gradient_boosting,both_shift,length,>=200 words,1,621,490,0.789049919484702
+2,gradient_boosting,both_shift,links,has links,0,3882,110,0.02833590932509016
+2,gradient_boosting,both_shift,links,no links,0,24306,2537,0.10437751995392085
+2,gradient_boosting,both_shift,links,has links,1,2428,2292,0.943986820428336
+2,gradient_boosting,both_shift,links,no links,1,438,300,0.684931506849315
+2,gradient_boosting,both_shift,format,plain text present,0,28188,2647,0.09390520788988221
+2,gradient_boosting,both_shift,format,HTML only,1,1698,1669,0.9829210836277974
+2,gradient_boosting,both_shift,format,plain text present,1,1168,923,0.7902397260273972
+2,tfidf_logistic,in_distribution,length,<50 words,0,95,0,0.0
+2,tfidf_logistic,in_distribution,length,50-199 words,0,428,2,0.004672897196261682
+2,tfidf_logistic,in_distribution,length,>=200 words,0,287,0,0.0
+2,tfidf_logistic,in_distribution,length,<50 words,1,96,93,0.96875
+2,tfidf_logistic,in_distribution,length,50-199 words,1,214,214,1.0
+2,tfidf_logistic,in_distribution,length,>=200 words,1,39,36,0.9230769230769231
+2,tfidf_logistic,in_distribution,links,has links,0,706,1,0.00141643059490085
+2,tfidf_logistic,in_distribution,links,no links,0,104,1,0.009615384615384616
+2,tfidf_logistic,in_distribution,links,has links,1,303,299,0.9867986798679867
+2,tfidf_logistic,in_distribution,links,no links,1,46,44,0.9565217391304348
+2,tfidf_logistic,in_distribution,format,HTML only,0,34,1,0.029411764705882353
+2,tfidf_logistic,in_distribution,format,plain text present,0,776,1,0.001288659793814433
+2,tfidf_logistic,in_distribution,format,HTML only,1,163,161,0.9877300613496932
+2,tfidf_logistic,in_distribution,format,plain text present,1,186,182,0.978494623655914
+2,tfidf_logistic,both_shift,length,<50 words,0,6908,779,0.11276780544296468
+2,tfidf_logistic,both_shift,length,50-199 words,0,11713,1159,0.09894988474344746
+2,tfidf_logistic,both_shift,length,>=200 words,0,9567,659,0.06888261733040661
+2,tfidf_logistic,both_shift,length,<50 words,1,827,416,0.5030229746070133
+2,tfidf_logistic,both_shift,length,50-199 words,1,1418,961,0.6777150916784203
+2,tfidf_logistic,both_shift,length,>=200 words,1,621,284,0.4573268921095008
+2,tfidf_logistic,both_shift,links,has links,0,3882,640,0.1648634724368882
+2,tfidf_logistic,both_shift,links,no links,0,24306,1957,0.08051509915247264
+2,tfidf_logistic,both_shift,links,has links,1,2428,1388,0.57166392092257
+2,tfidf_logistic,both_shift,links,no links,1,438,273,0.6232876712328768
+2,tfidf_logistic,both_shift,format,plain text present,0,28188,2597,0.09213140343408542
+2,tfidf_logistic,both_shift,format,HTML only,1,1698,997,0.5871613663133097
+2,tfidf_logistic,both_shift,format,plain text present,1,1168,664,0.5684931506849316
+3,feature_token_transformer,in_distribution,length,<50 words,0,87,1,0.011494252873563218
+3,feature_token_transformer,in_distribution,length,50-199 words,0,416,9,0.021634615384615384
+3,feature_token_transformer,in_distribution,length,>=200 words,0,307,2,0.006514657980456026
+3,feature_token_transformer,in_distribution,length,<50 words,1,96,93,0.96875
+3,feature_token_transformer,in_distribution,length,50-199 words,1,219,216,0.9863013698630136
+3,feature_token_transformer,in_distribution,length,>=200 words,1,34,34,1.0
+3,feature_token_transformer,in_distribution,links,has links,0,706,9,0.012747875354107648
+3,feature_token_transformer,in_distribution,links,no links,0,104,3,0.028846153846153848
+3,feature_token_transformer,in_distribution,links,has links,1,298,293,0.9832214765100671
+3,feature_token_transformer,in_distribution,links,no links,1,51,50,0.9803921568627451
+3,feature_token_transformer,in_distribution,format,HTML only,0,19,3,0.15789473684210525
+3,feature_token_transformer,in_distribution,format,plain text present,0,791,9,0.011378002528445006
+3,feature_token_transformer,in_distribution,format,HTML only,1,160,159,0.99375
+3,feature_token_transformer,in_distribution,format,plain text present,1,189,184,0.9735449735449735
+3,feature_token_transformer,both_shift,length,<50 words,0,6908,2294,0.3320787492762015
+3,feature_token_transformer,both_shift,length,50-199 words,0,11713,2071,0.17681208913173396
+3,feature_token_transformer,both_shift,length,>=200 words,0,9567,426,0.04452806522420821
+3,feature_token_transformer,both_shift,length,<50 words,1,827,753,0.9105199516324063
+3,feature_token_transformer,both_shift,length,50-199 words,1,1418,1334,0.9407616361071932
+3,feature_token_transformer,both_shift,length,>=200 words,1,621,521,0.8389694041867954
+3,feature_token_transformer,both_shift,links,has links,0,3882,170,0.04379185986604843
+3,feature_token_transformer,both_shift,links,no links,0,24306,4621,0.19011766641981404
+3,feature_token_transformer,both_shift,links,has links,1,2428,2293,0.9443986820428336
+3,feature_token_transformer,both_shift,links,no links,1,438,315,0.7191780821917808
+3,feature_token_transformer,both_shift,format,plain text present,0,28188,4791,0.1699659429544487
+3,feature_token_transformer,both_shift,format,HTML only,1,1698,1659,0.9770318021201413
+3,feature_token_transformer,both_shift,format,plain text present,1,1168,949,0.8125
+3,gradient_boosting,in_distribution,length,<50 words,0,87,1,0.011494252873563218
+3,gradient_boosting,in_distribution,length,50-199 words,0,416,3,0.007211538461538462
+3,gradient_boosting,in_distribution,length,>=200 words,0,307,0,0.0
+3,gradient_boosting,in_distribution,length,<50 words,1,96,93,0.96875
+3,gradient_boosting,in_distribution,length,50-199 words,1,219,216,0.9863013698630136
+3,gradient_boosting,in_distribution,length,>=200 words,1,34,32,0.9411764705882353
+3,gradient_boosting,in_distribution,links,has links,0,706,2,0.0028328611898017
+3,gradient_boosting,in_distribution,links,no links,0,104,2,0.019230769230769232
+3,gradient_boosting,in_distribution,links,has links,1,298,291,0.9765100671140939
+3,gradient_boosting,in_distribution,links,no links,1,51,50,0.9803921568627451
+3,gradient_boosting,in_distribution,format,HTML only,0,19,1,0.05263157894736842
+3,gradient_boosting,in_distribution,format,plain text present,0,791,3,0.0037926675094816687
+3,gradient_boosting,in_distribution,format,HTML only,1,160,160,1.0
+3,gradient_boosting,in_distribution,format,plain text present,1,189,181,0.9576719576719577
+3,gradient_boosting,both_shift,length,<50 words,0,6908,584,0.08453966415749856
+3,gradient_boosting,both_shift,length,50-199 words,0,11713,532,0.04541961922650047
+3,gradient_boosting,both_shift,length,>=200 words,0,9567,44,0.004599142887007421
+3,gradient_boosting,both_shift,length,<50 words,1,827,676,0.8174123337363967
+3,gradient_boosting,both_shift,length,50-199 words,1,1418,1298,0.9153737658674189
+3,gradient_boosting,both_shift,length,>=200 words,1,621,443,0.7133655394524959
+3,gradient_boosting,both_shift,links,has links,0,3882,74,0.0190623390005152
+3,gradient_boosting,both_shift,links,no links,0,24306,1086,0.044680325845470256
+3,gradient_boosting,both_shift,links,has links,1,2428,2106,0.8673805601317958
+3,gradient_boosting,both_shift,links,no links,1,438,311,0.7100456621004566
+3,gradient_boosting,both_shift,format,plain text present,0,28188,1160,0.0411522633744856
+3,gradient_boosting,both_shift,format,HTML only,1,1698,1563,0.9204946996466431
+3,gradient_boosting,both_shift,format,plain text present,1,1168,854,0.7311643835616438
+3,tfidf_logistic,in_distribution,length,<50 words,0,87,0,0.0
+3,tfidf_logistic,in_distribution,length,50-199 words,0,416,3,0.007211538461538462
+3,tfidf_logistic,in_distribution,length,>=200 words,0,307,2,0.006514657980456026
+3,tfidf_logistic,in_distribution,length,<50 words,1,96,95,0.9895833333333334
+3,tfidf_logistic,in_distribution,length,50-199 words,1,219,219,1.0
+3,tfidf_logistic,in_distribution,length,>=200 words,1,34,34,1.0
+3,tfidf_logistic,in_distribution,links,has links,0,706,5,0.007082152974504249
+3,tfidf_logistic,in_distribution,links,no links,0,104,0,0.0
+3,tfidf_logistic,in_distribution,links,has links,1,298,298,1.0
+3,tfidf_logistic,in_distribution,links,no links,1,51,50,0.9803921568627451
+3,tfidf_logistic,in_distribution,format,HTML only,0,19,1,0.05263157894736842
+3,tfidf_logistic,in_distribution,format,plain text present,0,791,4,0.0050568900126422255
+3,tfidf_logistic,in_distribution,format,HTML only,1,160,160,1.0
+3,tfidf_logistic,in_distribution,format,plain text present,1,189,188,0.9947089947089947
+3,tfidf_logistic,both_shift,length,<50 words,0,6908,1471,0.21294151708164447
+3,tfidf_logistic,both_shift,length,50-199 words,0,11713,2019,0.17237257747801588
+3,tfidf_logistic,both_shift,length,>=200 words,0,9567,1108,0.11581477997282325
+3,tfidf_logistic,both_shift,length,<50 words,1,827,530,0.6408706166868199
+3,tfidf_logistic,both_shift,length,50-199 words,1,1418,1064,0.7503526093088858
+3,tfidf_logistic,both_shift,length,>=200 words,1,621,338,0.5442834138486312
+3,tfidf_logistic,both_shift,links,has links,0,3882,926,0.2385368366821226
+3,tfidf_logistic,both_shift,links,no links,0,24306,3672,0.15107380893606517
+3,tfidf_logistic,both_shift,links,has links,1,2428,1606,0.6614497528830313
+3,tfidf_logistic,both_shift,links,no links,1,438,326,0.7442922374429224
+3,tfidf_logistic,both_shift,format,plain text present,0,28188,4598,0.16311905775507307
+3,tfidf_logistic,both_shift,format,HTML only,1,1698,1156,0.6808009422850412
+3,tfidf_logistic,both_shift,format,plain text present,1,1168,776,0.6643835616438356
+4,feature_token_transformer,in_distribution,length,<50 words,0,101,0,0.0
+4,feature_token_transformer,in_distribution,length,50-199 words,0,400,0,0.0
+4,feature_token_transformer,in_distribution,length,>=200 words,0,309,1,0.003236245954692557
+4,feature_token_transformer,in_distribution,length,<50 words,1,92,81,0.8804347826086957
+4,feature_token_transformer,in_distribution,length,50-199 words,1,226,219,0.9690265486725663
+4,feature_token_transformer,in_distribution,length,>=200 words,1,31,28,0.9032258064516129
+4,feature_token_transformer,in_distribution,links,has links,0,718,1,0.001392757660167131
+4,feature_token_transformer,in_distribution,links,no links,0,92,0,0.0
+4,feature_token_transformer,in_distribution,links,has links,1,312,292,0.9358974358974359
+4,feature_token_transformer,in_distribution,links,no links,1,37,36,0.972972972972973
+4,feature_token_transformer,in_distribution,format,HTML only,0,28,0,0.0
+4,feature_token_transformer,in_distribution,format,plain text present,0,782,1,0.0012787723785166241
+4,feature_token_transformer,in_distribution,format,HTML only,1,158,157,0.9936708860759493
+4,feature_token_transformer,in_distribution,format,plain text present,1,191,171,0.8952879581151832
+4,feature_token_transformer,both_shift,length,<50 words,0,6908,138,0.019976838448176028
+4,feature_token_transformer,both_shift,length,50-199 words,0,11713,235,0.020063177665841373
+4,feature_token_transformer,both_shift,length,>=200 words,0,9567,26,0.002717675342322567
+4,feature_token_transformer,both_shift,length,<50 words,1,827,623,0.7533252720677146
+4,feature_token_transformer,both_shift,length,50-199 words,1,1418,1187,0.8370944992947814
+4,feature_token_transformer,both_shift,length,>=200 words,1,621,313,0.5040257648953301
+4,feature_token_transformer,both_shift,links,has links,0,3882,45,0.011591962905718702
+4,feature_token_transformer,both_shift,links,no links,0,24306,354,0.014564305109849419
+4,feature_token_transformer,both_shift,links,has links,1,2428,1895,0.7804777594728172
+4,feature_token_transformer,both_shift,links,no links,1,438,228,0.5205479452054794
+4,feature_token_transformer,both_shift,format,plain text present,0,28188,399,0.014154959557258408
+4,feature_token_transformer,both_shift,format,HTML only,1,1698,1504,0.8857479387514723
+4,feature_token_transformer,both_shift,format,plain text present,1,1168,619,0.5299657534246576
+4,gradient_boosting,in_distribution,length,<50 words,0,101,0,0.0
+4,gradient_boosting,in_distribution,length,50-199 words,0,400,1,0.0025
+4,gradient_boosting,in_distribution,length,>=200 words,0,309,1,0.003236245954692557
+4,gradient_boosting,in_distribution,length,<50 words,1,92,82,0.8913043478260869
+4,gradient_boosting,in_distribution,length,50-199 words,1,226,210,0.9292035398230089
+4,gradient_boosting,in_distribution,length,>=200 words,1,31,29,0.9354838709677419
+4,gradient_boosting,in_distribution,links,has links,0,718,2,0.002785515320334262
+4,gradient_boosting,in_distribution,links,no links,0,92,0,0.0
+4,gradient_boosting,in_distribution,links,has links,1,312,290,0.9294871794871795
+4,gradient_boosting,in_distribution,links,no links,1,37,31,0.8378378378378378
+4,gradient_boosting,in_distribution,format,HTML only,0,28,0,0.0
+4,gradient_boosting,in_distribution,format,plain text present,0,782,2,0.0025575447570332483
+4,gradient_boosting,in_distribution,format,HTML only,1,158,154,0.9746835443037974
+4,gradient_boosting,in_distribution,format,plain text present,1,191,167,0.8743455497382199
+4,gradient_boosting,both_shift,length,<50 words,0,6908,167,0.02417486971627099
+4,gradient_boosting,both_shift,length,50-199 words,0,11713,96,0.008196021514556475
+4,gradient_boosting,both_shift,length,>=200 words,0,9567,9,0.0009407337723424271
+4,gradient_boosting,both_shift,length,<50 words,1,827,480,0.5804111245465539
+4,gradient_boosting,both_shift,length,50-199 words,1,1418,1185,0.8356840620592384
+4,gradient_boosting,both_shift,length,>=200 words,1,621,351,0.5652173913043478
+4,gradient_boosting,both_shift,links,has links,0,3882,18,0.00463678516228748
+4,gradient_boosting,both_shift,links,no links,0,24306,254,0.010450094626841109
+4,gradient_boosting,both_shift,links,has links,1,2428,1795,0.7392915980230642
+4,gradient_boosting,both_shift,links,no links,1,438,221,0.5045662100456622
+4,gradient_boosting,both_shift,format,plain text present,0,28188,272,0.009649496239534554
+4,gradient_boosting,both_shift,format,HTML only,1,1698,1377,0.8109540636042403
+4,gradient_boosting,both_shift,format,plain text present,1,1168,639,0.5470890410958904
+4,tfidf_logistic,in_distribution,length,<50 words,0,101,0,0.0
+4,tfidf_logistic,in_distribution,length,50-199 words,0,400,0,0.0
+4,tfidf_logistic,in_distribution,length,>=200 words,0,309,0,0.0
+4,tfidf_logistic,in_distribution,length,<50 words,1,92,92,1.0
+4,tfidf_logistic,in_distribution,length,50-199 words,1,226,226,1.0
+4,tfidf_logistic,in_distribution,length,>=200 words,1,31,31,1.0
+4,tfidf_logistic,in_distribution,links,has links,0,718,0,0.0
+4,tfidf_logistic,in_distribution,links,no links,0,92,0,0.0
+4,tfidf_logistic,in_distribution,links,has links,1,312,312,1.0
+4,tfidf_logistic,in_distribution,links,no links,1,37,37,1.0
+4,tfidf_logistic,in_distribution,format,HTML only,0,28,0,0.0
+4,tfidf_logistic,in_distribution,format,plain text present,0,782,0,0.0
+4,tfidf_logistic,in_distribution,format,HTML only,1,158,158,1.0
+4,tfidf_logistic,in_distribution,format,plain text present,1,191,191,1.0
+4,tfidf_logistic,both_shift,length,<50 words,0,6908,945,0.13679791546033584
+4,tfidf_logistic,both_shift,length,50-199 words,0,11713,1269,0.10834115939554341
+4,tfidf_logistic,both_shift,length,>=200 words,0,9567,639,0.06679209783631232
+4,tfidf_logistic,both_shift,length,<50 words,1,827,459,0.5550181378476421
+4,tfidf_logistic,both_shift,length,50-199 words,1,1418,977,0.6889985895627645
+4,tfidf_logistic,both_shift,length,>=200 words,1,621,293,0.4718196457326892
+4,tfidf_logistic,both_shift,links,has links,0,3882,666,0.17156105100463678
+4,tfidf_logistic,both_shift,links,no links,0,24306,2187,0.08997778326339176
+4,tfidf_logistic,both_shift,links,has links,1,2428,1450,0.5971993410214168
+4,tfidf_logistic,both_shift,links,no links,1,438,279,0.636986301369863
+4,tfidf_logistic,both_shift,format,plain text present,0,28188,2853,0.101213282247765
+4,tfidf_logistic,both_shift,format,HTML only,1,1698,1043,0.6142520612485277
+4,tfidf_logistic,both_shift,format,plain text present,1,1168,686,0.5873287671232876

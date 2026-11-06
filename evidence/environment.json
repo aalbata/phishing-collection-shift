@@ -1,0 +1,27 @@
+{
+  "utc": "2026-11-05T20:50:05.363280+00:00",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "processor": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "logical_processors": 14,
+  "physical_cores": 12,
+  "memory_total_gib": 15.52450180053711,
+  "memory_available_gib_at_start": 3.7881736755371094,
+  "torch_threads": 12,
+  "device": "CPU",
+  "packages": {
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.0",
+    "torch": "2.14.0+cpu",
+    "pyarrow": "25.0.1",
+    "beautifulsoup4": "4.15.0",
+    "langid": "1.1.6",
+    "psutil": "7.2.2",
+    "threadpoolctl": "3.6.0",
+    "matplotlib": "3.11.1",
+    "requests": "2.34.2",
+    "truststore": "0.10.4"
+  }
+}

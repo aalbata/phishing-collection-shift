@@ -1,0 +1,22 @@
+{
+  "collection": "nazario_classic",
+  "url": "https://monkey.org/~jose/phishing/LICENSE.txt",
+  "name": "nazario_LICENSE.txt",
+  "kind": "documentation",
+  "max_bytes": 4194304,
+  "relative_path": "nazario_classic/nazario_LICENSE.txt",
+  "retrieval_started_utc": "2026-11-05T20:11:04.648933+00:00",
+  "retrieved_at_utc": "2026-11-05T20:11:05.669911+00:00",
+  "status": "downloaded",
+  "attempts": 1,
+  "errors": [],
+  "final_url": "https://monkey.org/~jose/phishing/LICENSE.txt",
+  "http_status": 200,
+  "content_type": "text/plain",
+  "content_encoding": "gzip",
+  "content_length": "5932",
+  "last_modified": "Fri, 20 Feb 2026 15:28:08 GMT",
+  "etag": "\"48e1-64b431174a397-gzip\"",
+  "bytes": 18657,
+  "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411"
+}

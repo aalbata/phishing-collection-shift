@@ -1,0 +1,16 @@
+{
+  "file": "research/Preregistered_Protocol.md",
+  "sha256": "70db8243afc602991f3a4568ea4750107a3b67b395b7cd1c22da6bb0172e1718",
+  "frozen_utc": "2026-11-05T20:05:47+00:00",
+  "models_fitted_on_study_data_before_freeze": 0,
+  "data_inspected_before_freeze": "archive availability, message counts, header years and language counts of the Nazario 2015-2021/2025 and SpamAssassin archives; no model outcome",
+  "amendments": [
+    {
+      "number": 1,
+      "sha256_after": "91ee05272784eea8f925355fa44062a9930c8f667b5ce09af077c927274edeab",
+      "utc": "2026-11-05T20:13:12+00:00",
+      "models_fitted_before": 0,
+      "reason": "era confound; evaluation-only modern legitimate collection (Apache user lists)"
+    }
+  ]
+}

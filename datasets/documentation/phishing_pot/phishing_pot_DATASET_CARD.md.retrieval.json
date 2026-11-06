@@ -1,0 +1,22 @@
+{
+  "collection": "phishing_pot",
+  "url": "https://raw.githubusercontent.com/rf-peixoto/phishing_pot/78be141545ed9e56eefb857808ac78e83eb81b81/DATASET_CARD.md",
+  "name": "phishing_pot_DATASET_CARD.md",
+  "kind": "documentation",
+  "max_bytes": 4194304,
+  "relative_path": "phishing_pot/phishing_pot_DATASET_CARD.md",
+  "retrieval_started_utc": "2026-11-05T20:10:11.970067+00:00",
+  "retrieved_at_utc": "2026-11-05T20:10:13.071984+00:00",
+  "status": "downloaded",
+  "attempts": 1,
+  "errors": [],
+  "final_url": "https://raw.githubusercontent.com/rf-peixoto/phishing_pot/78be141545ed9e56eefb857808ac78e83eb81b81/DATASET_CARD.md",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "content_encoding": "gzip",
+  "content_length": "2305",
+  "last_modified": null,
+  "etag": "W/\"34a0b2d2109fbaf7bb5244c3cd80687c446406d7e498d183052453974c02b4d2\"",
+  "bytes": 5425,
+  "sha256": "0981e551a94262905b88eaa3c8bafd32e48cc67aea5004901ddd90c52047a923"
+}

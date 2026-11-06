@@ -1,0 +1,15 @@
+{
+  "n": 6448,
+  "n_positive": 5638,
+  "n_negative": 810,
+  "prevalence": 0.874379652605459,
+  "average_precision": 0.999839534602941,
+  "roc_auc": 0.9989276908456286,
+  "probe": "legitimate_collections",
+  "replicate": 4,
+  "variant": "tfidf_logistic",
+  "positive_collection": "enron",
+  "negative_collection": "spamassassin_ham",
+  "chosen_setting": 1,
+  "tune_ap": 0.9999212133524569
+}

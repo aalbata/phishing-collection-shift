@@ -1,0 +1,22 @@
+{
+  "collection": "apache_lists",
+  "url": "https://www.apache.org/foundation/public-archives.html",
+  "name": "apache_public_archives.html",
+  "kind": "documentation",
+  "max_bytes": 4194304,
+  "relative_path": "apache_lists/apache_public_archives.html",
+  "retrieval_started_utc": "2026-11-05T20:42:22.329264+00:00",
+  "retrieved_at_utc": "2026-11-05T20:42:23.876607+00:00",
+  "status": "downloaded",
+  "attempts": 1,
+  "errors": [],
+  "final_url": "https://www.apache.org/foundation/public-archives.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "content_encoding": "gzip",
+  "content_length": "6633",
+  "last_modified": "Wed, 23 Sep 2026 18:39:25 GMT",
+  "etag": "\"735b-65c2acd7248ec-gzip\"",
+  "bytes": 29531,
+  "sha256": "592469db352d84d72356061ac62019a86573dc62f55d79dbd9c2bd2a73a7e6d3"
+}

@@ -1,0 +1,12 @@
+{
+  "utc": "2026-11-05T23:11:25Z",
+  "manufacturer": "LENOVO",
+  "model": "21L2SBPU00",
+  "processor": "Intel(R) Core(TM) Ultra 7 155U",
+  "physical_cores": 12,
+  "logical_processors": 14,
+  "memory_total_gib": 15.52,
+  "os": "Microsoft Windows 11 Enterprise",
+  "os_build": "22631",
+  "source": "Windows Management Instrumentation (Win32_ComputerSystem, Win32_Processor, Win32_OperatingSystem)"
+}

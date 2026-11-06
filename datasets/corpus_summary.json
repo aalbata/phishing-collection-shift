@@ -1,0 +1,214 @@
+{
+  "eligible": 62205,
+  "groups": 54003,
+  "near_duplicate_pairs": 26412,
+  "largest_group": 188,
+  "label_conflict_groups": 0,
+  "label_conflict_messages": 0,
+  "cross_collection_groups": 0,
+  "cross_collection_messages": 0,
+  "included": 54003,
+  "exclusion_reasons": {
+    "duplicate_within_group": 8202,
+    "not_english": 8709,
+    "too_short": 212,
+    "parse_error:ParserRejectedMarkup": 3
+  },
+  "near_duplicate_similarity_quantiles": [
+    0.8,
+    0.9592,
+    1.0
+  ],
+  "threshold": 0.8,
+  "created_utc": "2026-11-05T20:48:34.938652+00:00",
+  "seeds": [
+    17,
+    29,
+    43,
+    71,
+    101
+  ],
+  "split_sha256": "8a19609d2649bf9f33d44b4fa70569b4b7e343f5d80e106eac1ed6f1ab08fc65",
+  "units_sha256": "3698500a358a4cff966ac8cc03e5823e955d25cd9adba9ab59f6da52d32c82b0",
+  "units_per_collection": {
+    "apache_lists": 17157,
+    "enron": 28188,
+    "nazario_recent": 1742,
+    "phishing_pot": 2866,
+    "spamassassin_ham": 4050
+  },
+  "status_by_collection": [
+    {
+      "collection": "apache_lists",
+      "status": "excluded",
+      "reason": "duplicate_within_group",
+      "messages": 718
+    },
+    {
+      "collection": "apache_lists",
+      "status": "excluded",
+      "reason": "not_english",
+      "messages": 110
+    },
+    {
+      "collection": "apache_lists",
+      "status": "excluded",
+      "reason": "too_short",
+      "messages": 17
+    },
+    {
+      "collection": "apache_lists",
+      "status": "included",
+      "reason": "",
+      "messages": 17157
+    },
+    {
+      "collection": "enron",
+      "status": "excluded",
+      "reason": "duplicate_within_group",
+      "messages": 5021
+    },
+    {
+      "collection": "enron",
+      "status": "excluded",
+      "reason": "not_english",
+      "messages": 342
+    },
+    {
+      "collection": "enron",
+      "status": "excluded",
+      "reason": "too_short",
+      "messages": 165
+    },
+    {
+      "collection": "enron",
+      "status": "included",
+      "reason": "",
+      "messages": 28188
+    },
+    {
+      "collection": "nazario_recent",
+      "status": "excluded",
+      "reason": "duplicate_within_group",
+      "messages": 476
+    },
+    {
+      "collection": "nazario_recent",
+      "status": "excluded",
+      "reason": "not_english",
+      "messages": 171
+    },
+    {
+      "collection": "nazario_recent",
+      "status": "excluded",
+      "reason": "too_short",
+      "messages": 8
+    },
+    {
+      "collection": "nazario_recent",
+      "status": "included",
+      "reason": "",
+      "messages": 1742
+    },
+    {
+      "collection": "phishing_pot",
+      "status": "excluded",
+      "reason": "duplicate_within_group",
+      "messages": 1909
+    },
+    {
+      "collection": "phishing_pot",
+      "status": "excluded",
+      "reason": "not_english",
+      "messages": 8064
+    },
+    {
+      "collection": "phishing_pot",
+      "status": "excluded",
+      "reason": "parse_error:ParserRejectedMarkup",
+      "messages": 3
+    },
+    {
+      "collection": "phishing_pot",
+      "status": "excluded",
+      "reason": "too_short",
+      "messages": 22
+    },
+    {
+      "collection": "phishing_pot",
+      "status": "included",
+      "reason": "",
+      "messages": 2866
+    },
+    {
+      "collection": "spamassassin_ham",
+      "status": "excluded",
+      "reason": "duplicate_within_group",
+      "messages": 78
+    },
+    {
+      "collection": "spamassassin_ham",
+      "status": "excluded",
+      "reason": "not_english",
+      "messages": 22
+    },
+    {
+      "collection": "spamassassin_ham",
+      "status": "included",
+      "reason": "",
+      "messages": 4050
+    }
+  ],
+  "units_years": {
+    "apache_lists": {
+      "count": 17156.0,
+      "mean": 2017.7,
+      "std": 2.8,
+      "min": 2015.0,
+      "25%": 2015.0,
+      "50%": 2017.0,
+      "75%": 2019.0,
+      "max": 2025.0
+    },
+    "enron": {
+      "count": 28188.0,
+      "mean": 2000.5,
+      "std": 1.0,
+      "min": 1979.0,
+      "25%": 2000.0,
+      "50%": 2001.0,
+      "75%": 2001.0,
+      "max": 2020.0
+    },
+    "nazario_recent": {
+      "count": 1737.0,
+      "mean": 2018.9,
+      "std": 3.5,
+      "min": 2015.0,
+      "25%": 2016.0,
+      "50%": 2018.0,
+      "75%": 2021.0,
+      "max": 2025.0
+    },
+    "phishing_pot": {
+      "count": 2853.0,
+      "mean": 2024.5,
+      "std": 1.3,
+      "min": 2019.0,
+      "25%": 2023.0,
+      "50%": 2025.0,
+      "75%": 2026.0,
+      "max": 2033.0
+    },
+    "spamassassin_ham": {
+      "count": 4050.0,
+      "mean": 2002.0,
+      "std": 0.4,
+      "min": 2002.0,
+      "25%": 2002.0,
+      "50%": 2002.0,
+      "75%": 2002.0,
+      "max": 2028.0
+    }
+  }
+}

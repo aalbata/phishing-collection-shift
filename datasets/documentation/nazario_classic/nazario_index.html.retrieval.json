@@ -1,0 +1,22 @@
+{
+  "collection": "nazario_classic",
+  "url": "https://monkey.org/~jose/phishing/",
+  "name": "nazario_index.html",
+  "kind": "documentation",
+  "max_bytes": 4194304,
+  "relative_path": "nazario_classic/nazario_index.html",
+  "retrieval_started_utc": "2026-11-05T20:11:05.671972+00:00",
+  "retrieved_at_utc": "2026-11-05T20:11:06.658901+00:00",
+  "status": "downloaded",
+  "attempts": 1,
+  "errors": [],
+  "final_url": "https://monkey.org/~jose/phishing/",
+  "http_status": 200,
+  "content_type": "text/html;charset=UTF-8",
+  "content_encoding": "gzip",
+  "content_length": "885",
+  "last_modified": null,
+  "etag": null,
+  "bytes": 4740,
+  "sha256": "4ec5f3378fb5d24ffc62796eb4cab09170b0aff443e37be6fe30d0f03239d9ef"
+}

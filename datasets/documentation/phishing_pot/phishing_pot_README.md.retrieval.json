@@ -1,0 +1,22 @@
+{
+  "collection": "phishing_pot",
+  "url": "https://raw.githubusercontent.com/rf-peixoto/phishing_pot/78be141545ed9e56eefb857808ac78e83eb81b81/README.md",
+  "name": "phishing_pot_README.md",
+  "kind": "documentation",
+  "max_bytes": 4194304,
+  "relative_path": "phishing_pot/phishing_pot_README.md",
+  "retrieval_started_utc": "2026-11-05T20:10:09.920717+00:00",
+  "retrieved_at_utc": "2026-11-05T20:10:11.022344+00:00",
+  "status": "downloaded",
+  "attempts": 1,
+  "errors": [],
+  "final_url": "https://raw.githubusercontent.com/rf-peixoto/phishing_pot/78be141545ed9e56eefb857808ac78e83eb81b81/README.md",
+  "http_status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "content_encoding": "gzip",
+  "content_length": "1037",
+  "last_modified": null,
+  "etag": "W/\"b5b935e52ddc65d7a26e57d412b5f89db8961aee02858c13c37a8af506112060\"",
+  "bytes": 2238,
+  "sha256": "cbe38e326fc97b4db3e5bd84b9afd0b2bffa4c69f16bf8411985bb744a1792b4"
+}

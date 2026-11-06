@@ -1,0 +1,18 @@
+﻿2026-11-06T00:31:54+00:00 start pairings=['PP-EN'] replicates=[4, 3, 2, 1, 0] variants=10 threads=3
+2026-11-06T00:31:58+00:00 PP-EN rep4 logistic none: tuneAP=0.9830 fit=0.1s avail=2.75GiB
+2026-11-06T00:31:59+00:00 PP-EN rep4 logistic balanced: tuneAP=0.9836 fit=0.1s avail=2.73GiB
+2026-11-06T00:32:07+00:00 PP-EN rep4 random_forest none: tuneAP=0.9809 fit=3.1s avail=2.71GiB
+2026-11-06T00:32:14+00:00 PP-EN rep4 random_forest balanced: tuneAP=0.9809 fit=2.5s avail=2.69GiB
+2026-11-06T00:32:22+00:00 PP-EN rep4 gradient_boosting none: tuneAP=0.9827 fit=3.6s avail=2.72GiB
+2026-11-06T00:32:30+00:00 PP-EN rep4 gradient_boosting balanced: tuneAP=0.9831 fit=2.9s avail=2.71GiB
+2026-11-06T00:33:05+00:00 PP-EN rep4 mlp none: tuneAP=0.9844 fit=15.9s avail=2.70GiB
+2026-11-06T00:33:40+00:00 PP-EN rep4 mlp balanced: tuneAP=0.9861 fit=20.3s avail=2.70GiB
+2026-11-06T00:34:04+00:00 PP-EN rep4 single_token_attention none: tuneAP=0.9819 fit=12.4s avail=2.61GiB
+2026-11-06T00:35:16+00:00 PP-EN rep4 single_token_attention balanced: tuneAP=0.9860 fit=29.1s avail=2.62GiB
+2026-11-06T00:42:48+00:00 PP-EN rep4 feature_token_transformer none: tuneAP=0.9873 fit=249.5s avail=2.79GiB
+2026-11-06T00:51:25+00:00 PP-EN rep4 feature_token_transformer balanced: tuneAP=0.9865 fit=296.0s avail=2.64GiB
+2026-11-06T00:59:32+00:00 PP-EN rep4 ftt_no_url none: tuneAP=0.9860 fit=270.0s avail=2.71GiB
+2026-11-06T01:03:36+00:00 PP-EN rep4 ftt_no_url balanced: tuneAP=0.9864 fit=111.8s avail=2.77GiB
+2026-11-06T01:08:34+00:00 PP-EN rep4 ftt_no_urgency none: tuneAP=0.9798 fit=207.1s avail=2.69GiB
+2026-11-06T01:09:15+00:00 PP-EN rep4 tfidf_logistic none: tuneAP=0.9935 fit=0.6s avail=2.29GiB
+2026-11-06T01:09:17+00:00 finished in 37.4 min

@@ -1,0 +1,22 @@
+{
+  "collection": "spamassassin_ham",
+  "url": "https://spamassassin.apache.org/old/publiccorpus/readme.html",
+  "name": "spamassassin_readme.html",
+  "kind": "documentation",
+  "max_bytes": 4194304,
+  "relative_path": "spamassassin_ham/spamassassin_readme.html",
+  "retrieval_started_utc": "2026-11-05T20:11:06.658901+00:00",
+  "retrieved_at_utc": "2026-11-05T20:11:07.402204+00:00",
+  "status": "downloaded",
+  "attempts": 1,
+  "errors": [],
+  "final_url": "https://spamassassin.apache.org/old/publiccorpus/readme.html",
+  "http_status": 200,
+  "content_type": "text/html",
+  "content_encoding": "gzip",
+  "content_length": "2144",
+  "last_modified": "Tue, 31 Jan 2006 20:30:37 GMT",
+  "etag": "\"11d6-40bad6fa6ba3f-gzip\"",
+  "bytes": 4566,
+  "sha256": "9f8cc0c8be6f32b25226d3ece26da775a6e008581b8fb061a679e3acee6b64be"
+}

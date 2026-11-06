@@ -1,0 +1,27 @@
+﻿2026-11-06T00:31:17+00:00 start pairings=['PP-EN'] replicates=[2, 3, 1, 4, 0] variants=10 threads=3
+2026-11-06T00:38:02+00:00 PP-EN rep2 ftt_no_url none: tuneAP=0.9899 fit=182.9s avail=2.70GiB
+2026-11-06T00:45:08+00:00 PP-EN rep2 ftt_no_url balanced: tuneAP=0.9912 fit=204.7s avail=2.76GiB
+2026-11-06T00:45:15+00:00 PP-EN rep2 gb_format_only none: tuneAP=0.9815 fit=2.8s avail=2.74GiB
+2026-11-06T00:45:22+00:00 PP-EN rep2 gb_format_only balanced: tuneAP=0.9818 fit=2.7s avail=2.80GiB
+2026-11-06T00:46:18+00:00 PP-EN rep2 tfidf_logistic none: tuneAP=0.9900 fit=0.8s avail=2.51GiB
+2026-11-06T00:46:20+00:00 PP-EN rep2 tfidf_logistic balanced: tuneAP=0.9903 fit=0.9s avail=2.52GiB
+2026-11-06T00:46:21+00:00 PP-EN rep3 logistic none: tuneAP=0.9784 fit=0.1s avail=2.70GiB
+2026-11-06T00:46:21+00:00 PP-EN rep3 logistic balanced: tuneAP=0.9789 fit=0.0s avail=2.69GiB
+2026-11-06T00:46:30+00:00 PP-EN rep3 random_forest none: tuneAP=0.9868 fit=3.5s avail=2.72GiB
+2026-11-06T00:46:36+00:00 PP-EN rep3 random_forest balanced: tuneAP=0.9875 fit=2.5s avail=2.67GiB
+2026-11-06T00:46:45+00:00 PP-EN rep3 gradient_boosting none: tuneAP=0.9872 fit=3.7s avail=2.71GiB
+2026-11-06T00:46:53+00:00 PP-EN rep3 gradient_boosting balanced: tuneAP=0.9874 fit=3.7s avail=2.71GiB
+2026-11-06T00:47:47+00:00 PP-EN rep3 mlp none: tuneAP=0.9839 fit=24.3s avail=2.85GiB
+2026-11-06T00:48:32+00:00 PP-EN rep3 mlp balanced: tuneAP=0.9861 fit=23.8s avail=2.84GiB
+2026-11-06T00:49:02+00:00 PP-EN rep3 single_token_attention none: tuneAP=0.9824 fit=17.7s avail=2.82GiB
+2026-11-06T00:49:40+00:00 PP-EN rep3 single_token_attention balanced: tuneAP=0.9851 fit=20.9s avail=2.76GiB
+2026-11-06T00:53:18+00:00 PP-EN rep3 feature_token_transformer none: tuneAP=0.9825 fit=94.3s avail=2.61GiB
+2026-11-06T00:57:45+00:00 PP-EN rep3 ftt_no_url none: tuneAP=0.9850 fit=178.1s avail=2.71GiB
+2026-11-06T01:01:13+00:00 PP-EN rep3 ftt_no_url balanced: tuneAP=0.9843 fit=106.1s avail=2.66GiB
+2026-11-06T01:04:48+00:00 PP-EN rep3 ftt_no_urgency none: tuneAP=0.9786 fit=70.1s avail=2.77GiB
+2026-11-06T01:04:55+00:00 PP-EN rep3 gb_format_only none: tuneAP=0.9819 fit=3.0s avail=2.80GiB
+2026-11-06T01:05:02+00:00 PP-EN rep3 gb_format_only balanced: tuneAP=0.9818 fit=2.6s avail=2.74GiB
+2026-11-06T01:05:54+00:00 PP-EN rep3 tfidf_logistic none: tuneAP=0.9945 fit=0.6s avail=2.58GiB
+2026-11-06T01:05:56+00:00 PP-EN rep3 tfidf_logistic balanced: tuneAP=0.9953 fit=0.9s avail=2.59GiB
+2026-11-06T01:12:22+00:00 PP-EN rep4 ftt_no_urgency balanced: tuneAP=0.9844 fit=187.8s avail=4.37GiB
+2026-11-06T01:12:23+00:00 finished in 41.1 min
